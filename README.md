@@ -1,24 +1,122 @@
-# 💫 About Me:
-# Hi, I'm Narayana Peddisetty 👋<br><br>### Data Engineer & Data Analyst<br><br>I'm a Data Engineer & Data Analyst with 3 years of hands-on experience working on US product-based projects, with a focus on data analytics, business intelligence, data warehousing, and ETL development.<br><br>I work primarily with **GCP BigQuery, SQL, Looker, LookML, Power BI, Python, Pandas, NumPy, and PySpark**.<br><br>Currently, I'm expanding my Data Engineering skills by building practical projects around **Python, SQL, ETL/ELT pipelines, data modeling, BigQuery, PySpark, and cloud data engineering**.<br><br>## 🛠️ Technical Skills<br><br>### Data Engineering<br><br>* ETL / ELT<br>* Data Pipeline Development<br>* Data Cleaning & Transformation<br>* Data Quality & Validation<br>* Data Modeling<br>* Partitioning & Clustering<br><br>### Programming<br><br>* Python<br>* Pandas<br>* NumPy<br>* PySpark<br>* SQL<br><br>### Cloud & Data Warehouse<br><br>* Google Cloud Platform<br>* BigQuery<br><br>### Business Intelligence<br><br>* Looker<br>* LookML<br>* Looker Studio<br>* Power BI<br>* Advanced Excel<br><br>### Development & Tools<br><br>* Git<br>* GitHub<br>* Google Workspace<br>* Microsoft Office<br><br>## 🚀 Current Focus<br><br>I'm currently strengthening my Data Engineering skills through hands-on projects covering:<br><br>* Python for Data Engineering<br>* Advanced SQL<br>* ETL / ELT Pipelines<br>* Data Modeling<br>* BigQuery Optimization<br>* PySpark<br>* Cloud Data Engineering<br>* Data Quality & Validation<br>* End-to-End Data Pipelines<br><br>## 📂 Featured Projects<br><br>Projects demonstrating practical applications of Data Engineering, Analytics, and Business Intelligence.<br><br>* Data Engineering Projects<br>* Python Data Engineering<br>* SQL & BigQuery<br>* ETL / ELT Pipelines<br>* Data Modeling<br><br>## Featured Projects<br><br>- [Data Engineering Project](https://github.com/peddisettynarayana-03/dataengineering)<br>  - SQL scripts, data warehouse concepts, and analytical queries-based data engineering project<br><br>- [Data Warehouse Python Repository](https://github.com/peddisettynarayana-03/python)<br>  - Python from basics to advanced with Project<br><br>## Current Learning Roadmap<br><br>- Python programming for data engineering<br>- Advanced SQL and window functions<br>- Data structures and algorithms<br>- ETL pipeline development<br>- Data warehouse architecture<br>- dbt and modern ELT<br>- Apache Airflow<br>- BigQuery and Google Cloud<br><br><br>## 📈 My Learning Journey<br><br>I regularly document my learning, experiments, technical notes, and project implementations as I continue transitioning deeper into Data Engineering.<br><br>## 🎯 Career Goal<br><br>To build scalable, reliable, and efficient data pipelines and data platforms that transform raw data into trusted, analytics-ready datasets.<br><br>---<br><br>### Connect With Me<br><br>[LinkedIn](https://www.linkedin.com/in/peddisettynarayana/)<br>
+<h1 align="center">Hi, I'm Peddisetty Narayana 👋</h1>
 
+<h3 align="center">Data Engineer & Analyst | Turning raw data into insights</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peddisettynarayana/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Peddisetty Narayana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peddisettynarayana03@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=peddisettynarayana-03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=peddisettynarayana-03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=peddisettynarayana-03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=peddisettynarayana-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Tirupati,_India-555?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/peddisettynarayana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:peddisettynarayana03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=peddisettynarayana-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Data Engineer & Data Analyst with 3+ years of experience** working on US product-based projects, building end-to-end analytics solutions for sales, operations, and product teams.
+
+I enjoy taking messy, large-scale data, cleaning it, modeling it, and turning it into dashboards that people can actually use to make decisions.
+
+- 🔭 Currently building **BI dashboards and ETL pipelines** with **BigQuery + Looker** at Revature / Brightspeed
+- 📊 Specialize in **Advanced SQL** (CTEs, window functions, partitioning, query optimization)
+- 🧱 Experienced in **LookML** data modeling: views, dimensions, measures, explores, derived tables
+- 🌱 Currently deepening my skills in **PySpark** and **automation with AI**
+- 💬 Ask me about: SQL, BigQuery, Looker, Power BI, Excel, ETL, KPI tracking
+
+---
+
+## 🛠️ Tech Stack
+
+**Data Warehousing & ETL**
+
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**BI & Visualization**
+
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Programming & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LookML](https://img.shields.io/badge/LookML-5F6368?style=for-the-badge&logo=looker&logoColor=white)
+
+---
+
+## 💼 What I Do
+
+| Area | What I work on |
+|---|---|
+| **ETL & Data Modeling** | Scalable pipelines in BigQuery, partitioning and clustering, data quality checks, LookML models |
+| **Advanced SQL** | Complex joins, CTE-based transformations, window functions (ranking, time-series), query cost control |
+| **Dashboards & Reporting** | Interactive Looker / Looker Studio / Power BI dashboards with drill-downs and automated alerts |
+| **Business Analytics** | Sales and funnel analysis, KPI development, customer segmentation, revenue and seasonal trend analysis |
+| **Data Cleaning** | Power Query (M), deduplication, automated validation across multiple datasets |
+
+---
+
+## 🚀 Featured Work
+
+### 📈 Sales & Performance Analytics Platform (BigQuery + Looker)
+End-to-end sales reporting and analytics to track revenue trends, product profitability, customer payment behavior, and sales team performance.
+
+- Built and optimized **ETL pipelines in BigQuery** using CTEs, window functions, and partitioning to integrate sales, payment, and operational data
+- Designed and deployed **enterprise dashboards** in Looker Standard and Looker Studio covering revenue, order trends, customer behavior, and funnel performance
+- Automated **KPI reports** for conversion, revenue, partner performance, and payment metrics
+- Delivered insights on **product performance, funnel drop-offs, and seasonal trends** in collaboration with product and sales stakeholders
+
+**Stack:** `BigQuery` · `LookML` · `Looker` · `Looker Studio` · `Power BI`
+
+> 💡 *Project code is confidential (client work). I'm adding personal and open-source projects here soon.*
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Best Performer Award**, Revature: for high-impact data visualizations and BI dashboards supporting sales and marketing decisions
+- 🎖️ **Certificate of Recognition (H1 2025)**, Revature: for handling large-scale datasets, query optimization, and accurate analytics on tight timelines
+- ☁️ **Analyze and Visualize Data in Looker**, Google Cloud Skill Badge
+- 📘 **BI and Analytics with Looker**, Google Cloud
+- 📗 **From Excel to Power BI**, Coursera
+- 📙 **Data Analytics**, Coursera
+- 🐍 **Python for Data Analysis: Pandas & NumPy**
+
+---
+
+## 🎓 Education
+
+**B.Tech, Electronics & Communication Engineering**
+Chadhalawada Ramanamma Engineering College (JNTU Anantapur), 2019 – 2023
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to conversations about data engineering, analytics, and BI roles.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/peddisettynarayana/">LinkedIn</a> ·
+  <a href="mailto:peddisettynarayana03@gmail.com">Email</a>
+</p>
+
+<p align="center"><i>"Data is only as valuable as the decisions it drives."</i></p>
