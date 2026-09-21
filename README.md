@@ -3,7 +3,7 @@
 <h3 align="center">Data Engineer & Analyst | Turning raw data into insights</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Tirupati,_India-555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Tirupati,_AndhraPradesh,_India-555?style=for-the-badge" />
   <a href="https://www.linkedin.com/in/peddisettynarayana/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
